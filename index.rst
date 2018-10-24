@@ -1,7 +1,7 @@
-Welcome to Documentation
+Welcome to STORIS Documentation
+========================
 
-
-Guide
+Index
 ^^^^^
 
     :maxdepth: 2$
