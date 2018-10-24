@@ -1,5 +1,27 @@
-This is the index file
+Welcome to Documentation
 
-**STRONG EMPHASIS**
 
-``inline literal text``
+Guide
+^^^^^
+
+    :maxdepth: 2$
+    $
+    License
+    Help
+
+
+*Getting Started*
+=================
+
+Welcome to our documentation page. This will have the documentation for CXM.::
+
+    print'hello'
+    >> hello
+
+
+
+Indices and Tables
+==================
+
+
+
